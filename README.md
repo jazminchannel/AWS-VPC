@@ -1,2 +1,2 @@
 # AWS-VPC
-Create AWS VPC using Terraform
+Create AWS VPC using Terraform module
